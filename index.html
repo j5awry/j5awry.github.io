@@ -1,0 +1,40 @@
+---
+layout: landing-page
+---		
+		<!-- Main -->
+			<article id="main">
+				<!-- Bio -->
+				<header class="special container">
+					{% capture bio %}{% include bio.markdown %}{% endcapture %}
+					{{ bio | markdownify }}
+				</header>
+					
+				<!-- Events -->
+				<section id="events" class="wrapper style2 container special-alt">
+						<div id="centered">
+							<header>
+								<h2> Events </h2>
+							</header>
+							<p>
+								{% capture events %}{% include events.markdown %}{% endcapture %}
+								{{ events | markdownify }}
+							</p>
+						</div>
+				</section>
+		<!-- CTA -->
+			<section id="cta">
+			
+				<header>
+					<h2><strong>Ready join the fun(k)?</strong></h2>
+					<p>Check out KcEMA, the Kansas City Electronic Music and Arts Alliance</p>
+				</header>
+				<footer>
+					<ul class="buttons">
+						<li><a href="http://www.kcema.net" class="button special">To the fun(k)</a></li>
+					</ul>
+				</br>
+				</br>
+				</br>
+				</footer>
+			
+			</section>
