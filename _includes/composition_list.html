@@ -6,7 +6,8 @@
                     {% if page.composition %}
                         {% if page.composition_type == comp_type %}
                             <div class=compositions>
-                                <h2> {{page.title}} </h2> 
+                                <h2> {{page.title}} </h2>
+                                <h5> {{page.date}} </h5> 
                                 {{ page.content | markdownify }}
                             </div>
                         {% endif %} <!-- if comp_type -->
