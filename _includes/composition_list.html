@@ -1,18 +1,26 @@
 {% for comp_type in site.composition_types %}   
-    <div class="6u" id="{{comp_type}}">
+    <div id="{{comp_type}}">
         <section>
-            <h2> {{comp_type}} </h2>
-            {% for page in site.pages %}
-                    {% if page.composition %}
-                        {% if page.composition_type == comp_type %}
-                            <div class=compositions>
-                                <h2> {{page.title}} </h2>
-                                <h5> {{page.date}} </h5> 
-                                {{ page.content | markdownify }}
-                            </div>
-                        {% endif %} <!-- if comp_type -->
-                    {% endif %} <!-- if page.composition -->
-            {% endfor %} <!-- for page in site -->
+            <ul>
+                <li class="submenu">
+                    <h2> {{comp_type}} </h2>
+                    <ul>
+                    {% for page in site.pages %}
+                            {% if page.composition %}
+                                {% if page.composition_type == comp_type %}
+                                    <li>
+                                    <div class=compositions>
+                                        <h2> {{page.title}} </h2>
+                                        <h5> {{page.date}} </h5> 
+                                        {{ page.content | markdownify }}
+                                    </div>
+                                    </li>
+                                {% endif %} <!-- if comp_type -->
+                            {% endif %} <!-- if page.composition -->
+                    {% endfor %} <!-- for page in site -->
+                    </ul
+                </li>
+            </ul>
         </section>
     </div>
 {% endfor %} 

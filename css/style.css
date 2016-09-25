@@ -115,6 +115,7 @@
 		border-width: 2.5px;
 		border-color: #83d3c9;
 	}
+	
 /* Section/Article */
 
 	section.special, article.special {
@@ -196,6 +197,7 @@
 	footer.major {
 		padding-top: 3em;
 	}
+
 
 /* Form */
 
