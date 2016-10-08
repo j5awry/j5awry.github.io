@@ -1,3 +1,3 @@
 #### A day in the future ####  
-  
-I'm doing something. Promise 
+
+* I'm doing something. Promise 
