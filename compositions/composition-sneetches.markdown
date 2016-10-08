@@ -5,6 +5,6 @@ composition: "not really"
 date: "2013"
 ---   
 
-<object width="50%" height="450"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fjohnchittum%2Fsets%2F72157632094252030%2Fshow%2F&page_show_back_url=%2Fphotos%2Fjohnchittum%2Fsets%2F72157632094252030%2F&set_id=72157632094252030&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=261948265"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=261948265" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fjohnchittum%2Fsets%2F72157632094252030%2Fshow%2F&page_show_back_url=%2Fphotos%2Fjohnchittum%2Fsets%2F72157632094252030%2F&set_id=72157632094252030&jump_to=" width="400" height="300"></embed></object>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/johnchittum/albums/72157632094252030" title="The Machine the Sneetches Built"><img src="https://c7.staticflickr.com/9/8068/8216061710_2d6def3817.jpg" width="281" height="500" alt="The Machine the Sneetches Built"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 Collaborative installation with Bobby Zokaites.  
 What happened after Mr. Sylvester McMonkey McBean's Star Machines stopped working in spectacular fashion? What would have happened if there were pieces left over on the beach? In their new found friendship, the Sneetches may have used those pieces to create new ways ot have fun.  
