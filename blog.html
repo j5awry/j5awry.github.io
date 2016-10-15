@@ -40,7 +40,7 @@ layout: default
                             {% assign tags = site.tags | sort %}
                             {% for tag in tags %}
                                 <li style="font-size:{{ tag | last | size  | times: 10 | plus: 80 }}%;">
-                                <a href="/tags/#{{tag[0]}}">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size}})</a>
+                                <a href="/tags.html#{{tag[0]}}">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size}})</a>
                                 </li>
                             {% endfor %}
                         </ul>
