@@ -2,18 +2,14 @@
 layout: default
 --- 
 
-<article id="Compositions">
+<article id="Tags">
     <section id="banner">
         <div class="inner">
-            <h3>Compositions</h3>
+            <p style="color:#FF2800; font-size:2em;">Blog Tags</p>
         </div>
     </section>
     <section class="wrapper style3 container special">
-        <div class="row">
-            {% include composition_list.html %}
-            <!--{% capture acoustic %}{% endcapture %}
-            {{ acoustic | markdownify }}-->
-        </div>
+            {% include tag_list.html %}
         <footer class="major">
             <ul class="buttons">
                 <li><a href="#" class="button">See More</a></li>
