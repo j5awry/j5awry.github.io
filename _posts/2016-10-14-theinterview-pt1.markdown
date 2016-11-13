@@ -7,6 +7,7 @@ tags:
   - failedcomposer
   - comic
 excerpt_separator: <!--more-->
+img: TheInterview-Pt1.png
 ---
 Thus it begins. But then, some of you already knew. 
   
@@ -14,4 +15,4 @@ Thus it begins. But then, some of you already knew.
 
 
 <!--more-->
-<img src="images/blog/TheInterview-Pt1.png" alt="no one expects the first interview" width="75%" height="75%">
+<img src="images/failedcomic/TheInterview-Pt1.png" alt="no one expects the first interview" title="no one expects the first interview" width="75%" height="75%">

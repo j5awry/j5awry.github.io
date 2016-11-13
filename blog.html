@@ -51,8 +51,10 @@ layout: default
 <!-- Full page -->
         <ul class="posts">
           {% for post in site.posts %}
-            {% if post.tags contains "first" %}
+            {% if post.tags contains "comic" %}
             <!-- nothing! -->
+            {% elsif post.tags contains "first" %}
+            <!-- nothing ! -->
             {% else %}
             <li class="wrapper style1 ">
               <h2 style="text-align: center"><a href="{{ post.url }}">{{ post.title }}</a></h2>
