@@ -15,4 +15,4 @@ Probably should have expected that...
 
 
 <!--more-->
-<img src="images/failedcomic/TheInterview-Pt2.png" alt="probably should have expected that." title="I'm guessing the Beatles and Radiohead courses are different." width="75%" height="75%">
+<img src="images/failedcomic/TheInterview-Pt2.png" alt="probably should have expected that." title="I'm guessing the Beatles and Radiohead courses are different." width="100%" height="100%">
