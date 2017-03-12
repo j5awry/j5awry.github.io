@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Keep Me Playing Project"
-date:   2017-03-05
+date:   2017-03-12
 permalink: /keepmeplaying
 tags: 
   - blog
